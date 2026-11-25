@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.firebase/
+firebase-debug.log*
+.DS_Store
+*.local
+.scratch/
+
+# Vendored agent skills (third-party, not ours to redistribute)
+.claude/
+.agents/
+skills-lock.json
